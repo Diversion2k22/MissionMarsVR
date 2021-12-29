@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 5017ce1b198c6df4fade9f13c1d58409
+  - enabled: 1
+    path: Assets/Scenes/ControlRoom.unity
+    guid: 52b302ce7fff3104993863c3a879aa17
+  - enabled: 1
+    path: Assets/Scenes/SolarSystem.unity
+    guid: ab61a6a33ae1edc499648e7a9076e710
+  - enabled: 1
+    path: Assets/Scenes/Mars.unity
+    guid: d56f063068d1c7145a0a539086db402f
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cafdd4bac76292d4cacb6e2d4b10af8c,
+      type: 2}

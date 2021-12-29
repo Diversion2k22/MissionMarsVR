@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: fd26d8c8db5462a438a5c4489d3c1581
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: $panel|10|PanelH|BR05;BRL18#color|0A0A0A
+    100002: Cap.001
+    100004: Cube.002
+    100006: Key_Buttons.001
+    100008: Keyboard_base.001
+    100010: //RootNode
+    100012: Left_Cube.006
+    100014: Middle_Cube.003
+    100016: Right_Cube.007
+    100018: Stand_Cube.002
+    100020: stelaz1#$conf|0|BR05R#$frame|1
+    100022: szyna#$conf|0|BR05R#color|0A0A0A
+    400000: $panel|10|PanelH|BR05;BRL18#color|0A0A0A
+    400002: Cap.001
+    400004: Cube.002
+    400006: Key_Buttons.001
+    400008: Keyboard_base.001
+    400010: //RootNode
+    400012: Left_Cube.006
+    400014: Middle_Cube.003
+    400016: Right_Cube.007
+    400018: Stand_Cube.002
+    400020: stelaz1#$conf|0|BR05R#$frame|1
+    400022: szyna#$conf|0|BR05R#color|0A0A0A
+    2100000: PLASTIC
+    2100002: TABLE_
+    2100004: METAL_BLACK
+    2100006: ALUMINIUM
+    2100008: monitor back
+    2100010: monitor screen
+    2100012: Black_Mat_Rough
+    2100014: Material.002
+    2100016: Black_Mat_G
+    2300000: $panel|10|PanelH|BR05;BRL18#color|0A0A0A
+    2300002: Cap.001
+    2300004: Cube.002
+    2300006: Key_Buttons.001
+    2300008: Keyboard_base.001
+    2300010: Left_Cube.006
+    2300012: Middle_Cube.003
+    2300014: Right_Cube.007
+    2300016: Stand_Cube.002
+    2300018: stelaz1#$conf|0|BR05R#$frame|1
+    2300020: szyna#$conf|0|BR05R#color|0A0A0A
+    3300000: $panel|10|PanelH|BR05;BRL18#color|0A0A0A
+    3300002: Cap.001
+    3300004: Cube.002
+    3300006: Key_Buttons.001
+    3300008: Keyboard_base.001
+    3300010: Left_Cube.006
+    3300012: Middle_Cube.003
+    3300014: Right_Cube.007
+    3300016: Stand_Cube.002
+    3300018: stelaz1#$conf|0|BR05R#$frame|1
+    3300020: szyna#$conf|0|BR05R#color|0A0A0A
+    4300000: $panel|10|PanelH|BR05;BRL18#color|0A0A0A
+    4300002: stelaz1#$conf|0|BR05R#$frame|1
+    4300004: szyna#$conf|0|BR05R#color|0A0A0A
+    4300006: Right_Cube.007
+    4300008: Left_Cube.006
+    4300010: Middle_Cube.003
+    4300012: Stand_Cube.002
+    4300014: Cap.001
+    4300016: Key_Buttons.001
+    4300018: Keyboard_base.001
+    4300020: Cube.002
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ALUMINIUM
+    second: {fileID: 2100000, guid: 86ac2bb95debdaa4e8eb4a4ccc8bc1b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black_Mat_G
+    second: {fileID: 2100000, guid: 087d670b60a00d24988c15ab6460fa67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black_Mat_Rough
+    second: {fileID: 2100000, guid: 2b30b83f494b20a4a812ef678d5c1846, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: METAL_BLACK
+    second: {fileID: 2100000, guid: 48fb91e4f1107ed41872ec4422b31e65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 7f6abc8b50ac9934baab3545172db52c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PLASTIC
+    second: {fileID: 2100000, guid: 1adc4d685ddd81c48b1de442ccdf04f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TABLE_
+    second: {fileID: 2100000, guid: 35c1d12a32739da409fe0b1668564823, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor back
+    second: {fileID: 2100000, guid: 3ae79771c60031647bda1d6965d94acb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: monitor screen
+    second: {fileID: 2100000, guid: c56598d7edc0186428153c48c67698c6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

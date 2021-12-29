@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 483666e9fd1fe6541a6621d7bba61e0f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default OBJ
+    second: {fileID: 2100000, guid: 9431bf8631d8d3a4a8133730eb103acd, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: earth_diff.jpg
+    second: {fileID: 2800000, guid: 86cf355ef74863847ac9417cd72de864, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: earth_norm.jpg.normal
+    second: {fileID: 2800000, guid: 3c31f81d84723ef4ab5ffc04ce067b54, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0

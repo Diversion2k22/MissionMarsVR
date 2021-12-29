@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d71d5e8a8d4957242ba1c54e185a3ba2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None
+    second: {fileID: 2100000, guid: 4e2e64aa9c10b4542bc07ab829f78cb6, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: jupiter_diff.jpg
+    second: {fileID: 2800000, guid: f40d40b18ad6c0042aa264cc7c6d003f, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bb70e918fda28ab499f8f2a841ada262
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default OBJ.005
+    second: {fileID: 2100000, guid: 844f328a675b1f144804e0c3b1c96a0f, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: mercury_diff.jpg
+    second: {fileID: 2800000, guid: 62a703bdb9ae2c34c8959cb4e1fed7bd, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0
